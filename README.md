@@ -193,4 +193,6 @@ Retrofit → OkHttpClient → Moshi
 ```
 
 # Aplicación en ejecución
-![](/home/jebo/Pictures/Apex/loading_inicial.png)
+![Loading inicial](/docs/assets/loading_inicial.png)
+![Pantalla principal](/docs/assets/pantalla_principal.png)
+![Fetch de la siguiente página](/docs/assets/loading_infinite_scroll.png)
