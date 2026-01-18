@@ -193,6 +193,25 @@ Retrofit → OkHttpClient → Moshi
 ```
 
 # Aplicación en ejecución
-![Loading inicial](/docs/assets/loading_inicial.png)
-![Pantalla principal](/docs/assets/pantalla_principal.png)
-![Fetch de la siguiente página](/docs/assets/loading_infinite_scroll.png)
+A continuación se muestran algunas capturas de la aplicación durante su ejecución.
+
+### Carga inicial
+<img
+src="docs/assets/loading_inicial.png"
+alt="Carga inicial de la aplicación"
+width="250"
+/>
+
+### Pantalla principal
+<img
+src="docs/assets/pantalla_principal.png"
+alt="Pantalla principal con listado de personajes"
+width="250"
+/>
+
+### Paginación / Infinite Scroll
+<img
+src="docs/assets/loading_infinite_scroll.png"
+alt="Carga de la siguiente página mediante infinite scroll"
+width="250"
+/>
