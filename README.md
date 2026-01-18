@@ -191,3 +191,6 @@ CharactersApi (Retrofit)
    ↓ necesita
 Retrofit → OkHttpClient → Moshi
 ```
+
+# Aplicación en ejecución
+![](/home/jebo/Pictures/Apex/loading_inicial.png)
